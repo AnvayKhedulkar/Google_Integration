@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleApi", "GoogleApi\GoogleApi.csproj", "{F818CB8E-106B-4647-ADFA-F74C3A049683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F818CB8E-106B-4647-ADFA-F74C3A049683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F818CB8E-106B-4647-ADFA-F74C3A049683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F818CB8E-106B-4647-ADFA-F74C3A049683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F818CB8E-106B-4647-ADFA-F74C3A049683}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC40C2CA-B37A-47FB-89E8-715226D6C218}
+	EndGlobalSection
+EndGlobal
